@@ -15,4 +15,4 @@ Utilized sources:
 - https://arxiv.org/abs/2103.13855
 - https://learning.quantum.ibm.com/course/fundamentals-of-quantum-algorithms/phase-estimation-and-factoring
 - https://gist.github.com/marnix135/582c78891b29186ba4c6882a4bc62822
-- https://gist.github.com/marnix135/582c78891b29186ba4c6882a4bc62822
+- https://github.com/mx0c/RSA-Implementation-in-Python/blob/master/main.py
