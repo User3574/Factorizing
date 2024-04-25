@@ -1,5 +1,5 @@
 # Inspired by: https://gist.github.com/marnix135/582c78891b29186ba4c6882a4bc62822
-# Small changes made with inspiration from: https://gist.github.com/marnix135/582c78891b29186ba4c6882a4bc62822
+# Small changes made with inspiration from: https://github.com/mx0c/RSA-Implementation-in-Python/blob/master/main.py
 
 import random
 
